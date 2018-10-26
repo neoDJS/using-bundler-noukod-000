@@ -4,7 +4,7 @@ gem "hashie"
 gem "octokit", "2.0"
 gem 'awesome_print', '~> 1.8'
 
-gem "pry" :group => :development
+gem "pry", group: :development
 # group :development do
 # 
 # end
